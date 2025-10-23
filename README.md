@@ -3,7 +3,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
-# Decog — Exploring Mind, Data, and Thought
+# DECOG — Exploring Mind, Data, and Thought
 
 Welcome to **DECOG**, a personal academic site dedicated to a holistic reflection of **psychology**, **cognitive science**, and **neurophilosophy** — viewed through the lens of data and information.
 
