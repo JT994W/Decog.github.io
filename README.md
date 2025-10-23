@@ -1,8 +1,10 @@
 ---
 
-layout: default
-title: DECOG — (Deconstructing Cognition) Though Data, Mind, and Information
-description: A personal academic oriented site on psychology, cognitive science, and neurophilosophy — with reflections, videos, R code, and external learning resources.
+title: "Decog"
+description: "Exploring psychology, cognitive science, and neurophilosophy through data and reflection."
+theme: minima
+markdown: kramdown
+
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 # Decog — Exploring Mind, Data, and Thought
