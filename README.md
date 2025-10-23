@@ -1,9 +1,12 @@
 ---
 
 title: "Decog"
-description: "Exploring psychology, cognitive science, and neurophilosophy through data and reflection."
+description: "Deconstructing cognition though information integration, data, and philosophy"
 theme: minima
+author: "Jeremy Wright"
 markdown: kramdown
+show_downloads: false
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
