@@ -1,24 +1,17 @@
----
 
-title: "Decog"
-description: "Deconstructing cognition though information integration, data, and philosophy"
-theme: minima
-author: "Jeremy Wright"
-markdown: kramdown
-show_downloads: false
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 # Decog — Exploring Mind, Data, and Thought
 
-Welcome to **Decog**, a personal academic site dedicated to the study and reflection of **psychology**, **cognitive science**, and **neurophilosophy** — viewed through the lens of data and information sciences.
+Welcome to **DECOG**, a personal academic site dedicated to a holistic reflection of **psychology**, **cognitive science**, and **neurophilosophy** — viewed through the lens of data and information.
 
 ---
 
 ## 🧠 About Decog
 
-**Decog** (short for *deconstructing cognition*) is an independent space for exploring how human minds think, learn, and understand. It combines ideas from psychology, philosophy of mind, and cognitive science, with practical methods from **informatics**, **analytics**, and **data science**.
+**DECOG** (short for *deconstructing cognition*) is an independent space for exploring how human minds think, learn, and understand. It combines ideas from psychology, philosophy of mind, and cognitive science, with practical considerations stemming from **informatics**, **analytics**, and **neuroscience**.
 
 I created this site to document what I’m learning, thinking, and discovering — from theoretical reflections to data-driven insights.
 
